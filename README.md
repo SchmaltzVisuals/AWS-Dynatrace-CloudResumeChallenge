@@ -15,6 +15,15 @@ Overall the challenge involved:
 
 The final steps included monitoring my domain with synthetic traffic and monitoring CloudFront for errors and general statistics with CloudWatch.
 
+1. Cloudwatch
+![2023-08-08 18_20_37-Window](https://github.com/SchmaltzVisuals/AWS-Dynatrace-CloudResumeChallenge/assets/38481385/876e8158-10df-4757-a713-8c8c0b75aabd)
+
+2. Dynatrace
+![synthetic1](https://github.com/SchmaltzVisuals/AWS-Dynatrace-CloudResumeChallenge/assets/38481385/c900975b-7b4e-45b8-b15b-e2bf52ab238c)
+![synthetic2](https://github.com/SchmaltzVisuals/AWS-Dynatrace-CloudResumeChallenge/assets/38481385/91abaa90-4f69-4b10-8b61-368bf063ba7b)
+![synthetic3](https://github.com/SchmaltzVisuals/AWS-Dynatrace-CloudResumeChallenge/assets/38481385/0b1e1032-95b5-4d4b-ba7d-a0c32cc5a765)
+
+
 AWS Technology used:
 - CloudFront
 - CloudWatch
