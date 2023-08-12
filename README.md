@@ -10,7 +10,7 @@ Overall the challenge involved:
 3. Enabling SSL/TLS with Certificate Manager (enables an encrypted connection to my website)
 4. Storing my website files in an S3 Bucket
 5. CloudFront is linked to my Bucket in order to display the website.
-6. Lambda is used for triggering the event of incrementing website view count in DynamoDB every time my site is visiting (when a user navigates to https://lnkd.in/gjh4r78V, a JS function is run automatically which triggers my lambda function
+6. Lambda is used for triggering the event of incrementing website view count in DynamoDB every time my site is visiting (when a user navigates to https://www.schmaltzvisuals.cloud, a JS function is run automatically which triggers my lambda function
 7. To enable CI/CD I used GitHub with AWS CodePipeline
 
 The final steps included monitoring my domain with synthetic traffic and monitoring CloudFront for errors and general statistics with CloudWatch.
