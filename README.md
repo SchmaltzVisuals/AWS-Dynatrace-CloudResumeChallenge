@@ -2,7 +2,7 @@
 
 ![2023-08-08 18_08_30-Window](https://github.com/SchmaltzVisuals/AWS-Dynatrace-CloudResumeChallenge/assets/38481385/d83da08f-7568-41c5-ba2a-8540a6c9cdee)
 
-The CloudResumeChallenge was fun to go through and helped me gain practical AWS use. I put a twist on this challenge by integrating Dynatrace for synthetic monitoring of my website https://lnkd.in/gjh4r78V. This is one of the many projects I'll complete as I work moving into a cloud-focused/site-reliability role.
+The CloudResumeChallenge was fun to go through and helped me gain practical AWS use. I put a twist on this challenge by integrating Dynatrace for synthetic monitoring of my website. This is one of the many projects I'll complete as I work moving into a cloud-focused/site-reliability role.
 
 Overall the challenge involved:
 1. Setting up a hosted zone through 53
